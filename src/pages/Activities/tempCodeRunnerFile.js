@@ -1,2 +1,2 @@
 
-const Activities = () => {
+// const Activities = () => {

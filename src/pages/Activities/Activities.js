@@ -64,9 +64,6 @@ const Activities = () => {
             <div className='events'>
                 <Cards info={info} />
             </div>
-            <div>
-                <Footer/>
-            </div>
         </div>
     )
 }

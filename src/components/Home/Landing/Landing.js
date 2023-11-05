@@ -19,9 +19,7 @@ const Hero = () => {
 
   return (
     <>
-      <div>
-        <Navbar />
-      </ div >
+      <Navbar />
       <Slider {...settings} >
         <div>
           <img src="https://res.cloudinary.com/priyojit/image/upload/v1688032745/BACKGROUND4_srxvbs.jpg" alt="" />

@@ -29,7 +29,7 @@ const Purpose = () => {
   return (
     <div>
         <div className="motto">
-        <h3 style={{ fontSize: "50px" }}>Purpose of THINK INDIA</h3>
+        <h3 style={{ fontSize: "50px" }}>Purpose of THINK NORTH EAST</h3>
       </div>
       <div className="test_card">
         <div className="cards-set-1">
