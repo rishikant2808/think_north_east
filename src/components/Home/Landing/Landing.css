@@ -1,0 +1,11 @@
+.slick-slide img {
+    display: block;
+    margin-top:5.1rem;
+    width: 100%;
+  }
+  @media only screen and (max-width:991px){
+    .slick-slide img {
+      margin-top:0;
+    }
+  }  
+
